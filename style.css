@@ -8323,3 +8323,11 @@ color: #5138ee;
 .attr-nav > ul > li.contact i {
     color: #E5A900;
 }
+
+.features-area .features-box .item-grid .item i {
+    color: #E5A900 !important;
+}
+
+.features-area .item-grid .item:hover {
+    background: #E5A900 !important;
+}
